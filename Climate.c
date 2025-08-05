@@ -6,7 +6,7 @@ UNIHIKER_K10 k10;
 
 const char* ssid = "NOME_REDEWIFI";
 const char* password = "SENHA_REDEWIFI";
-const String apiKey = "468530dc54ce1fd7f00368b2765e96ee";
+const String apiKey = "API KEY"; // https://home.openweathermap.org/api_keys
 
 // Coordenadas de São Paulo
 const float latitude = -23.55;
