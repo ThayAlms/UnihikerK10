@@ -4,8 +4,8 @@
 
 UNIHIKER_K10 k10;
 
-const char* ssid = "RoboCore";
-const char* password = "robocore2534";
+const char* ssid = "NOME_REDEWIFI";
+const char* password = "SENHA_REDEWIFI";
 const String apiKey = "468530dc54ce1fd7f00368b2765e96ee";
 
 // Coordenadas de São Paulo
